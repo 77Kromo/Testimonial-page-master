@@ -38,7 +38,7 @@ This testimonial page was created as a solution to the devChallenges.io Testimon
 ### What I learned
 
 - Implemented responsive design with CSS Grid and Flexbox
-- Used CSS clamp() for fluid typography
+- Used CSS `clamp()` for fluid typography
 - Created a star rating system with SVG icons
 - Applied modern CSS techniques like custom properties and transitions
 - Developed a mobile-first approach with media queries for different screen sizes
