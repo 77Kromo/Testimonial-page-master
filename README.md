@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.your-domain">
+    <a href="https://testimonial-page-master.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -68,5 +68,5 @@ This testimonial page was created as a solution to the devChallenges.io Testimon
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/your-username)
-- Twitter [@your-twitter](https://twitter.com/your-twitter)
+- GitHub [@77Kromo](https://github.com/77Kromo)
+- Twitter [@kromo772004](https://x.com/kromo772004)
