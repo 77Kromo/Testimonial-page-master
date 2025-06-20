@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://your-url-to-the-solution">
+    <a href="https://devchallenges.io/solution/52328">
       Solution
     </a>
     <span> | </span>
@@ -54,7 +54,6 @@ This testimonial page was created as a solution to the devChallenges.io Testimon
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - Responsive design principles
 
