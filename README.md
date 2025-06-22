@@ -31,7 +31,7 @@
 
 ## Overview
 
-![Screenshot of the Testimonial Page](./assets/screenshot.png)
+[![Screenshot of the Testimonial Page](./assets/screenshot.png)](https://testimonial-page-master.netlify.app/)
 
 This testimonial page was created as a solution to the devChallenges.io Testimonial Page challenge. The page features a responsive layout that displays reviewer information, star ratings, and testimonials from different companies.
 
